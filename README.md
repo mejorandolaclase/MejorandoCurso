@@ -12,4 +12,3 @@
 
 <li>Puedes dar un Fork al repositorio y estar actualizado siempre con GIT ó puedes descargar los .ZIP de cada curso, incluidos
 en su carpeta.</li>
-</li>
